@@ -6,7 +6,7 @@
 package view;
 
 import java.util.ArrayList;
-import modeDominio.Bike;
+import modelDominio.Bike;
 import view.tablemodel.BikeTableModel;
 
 /**
